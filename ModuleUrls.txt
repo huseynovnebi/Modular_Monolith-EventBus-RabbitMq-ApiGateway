@@ -1,0 +1,7 @@
+
+
+
+
+API.Gateway       -> http://localhost:5000
+
+OrderAPI          -> http://localhost:5001
